@@ -82,27 +82,13 @@ fun_fact:  Hala Madrid 🤍 — believer in comebacks, on and off the pitch
 
 ## `$ ls ./featured_projects`
 
-<div align="center">
-
-<a href="https://github.com/ghoshmanobendra-dotcom/MULEX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghoshmanobendra-dotcom&repo=MULEX&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ffea&text_color=c9d1d9&icon_color=00ffea" />
-</a>
-<a href="https://github.com/ghoshmanobendra-dotcom/VIDEOTUBE-FROTEND">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghoshmanobendra-dotcom&repo=VIDEOTUBE-FROTEND&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ffea&text_color=c9d1d9&icon_color=00ffea" />
-</a>
-<a href="https://github.com/ghoshmanobendra-dotcom/DevTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghoshmanobendra-dotcom&repo=DevTracker&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ffea&text_color=c9d1d9&icon_color=00ffea" />
-</a>
-
-</div>
-
-**🔎 MULEX — Financial Crime Detection** · `Python · FastAPI · NetworkX · Pandas · React · Cytoscape.js`
+**🔎 [MULEX](https://github.com/ghoshmanobendra-dotcom/MULEX) — Financial Crime Detection** · `Python · FastAPI · NetworkX · Pandas · React · Cytoscape.js`
 Graph-based fraud detection engine that ingests CSV transaction data and applies graph theory (NetworkX) to surface money-mule networks, smurfing patterns, and suspicious transaction rings — visualized interactively with Cytoscape.js.
 
-**🎬 VideoTube — Full-Stack Video Platform** · `React 19 · Vite · Node.js · Express · MongoDB · JWT · Cloudinary`
+**🎬 [VideoTube](https://github.com/ghoshmanobendra-dotcom/VIDEOTUBE-FROTEND) — Full-Stack Video Platform** · `React 19 · Vite · Node.js · Express · MongoDB · JWT · Cloudinary`
 YouTube-inspired platform with JWT auth (Axios interceptors + cookie flow), Cloudinary media pipeline, MongoDB aggregation for channel analytics, and a fully responsive dark-mode UI with real-time comments/likes.
 
-**📊 DevTracker — Gamified Dev Productivity Platform** · `React · TypeScript · Vite · Tailwind · Supabase · PostgreSQL`
+**📊 [DevTracker](https://github.com/ghoshmanobendra-dotcom/DevTracker) — Gamified Dev Productivity Platform** · `React · TypeScript · Vite · Tailwind · Supabase · PostgreSQL`
 Developer dashboard with live LeetCode stats/streaks, a GitHub-style efficiency heatmap, Supabase auth, tagged study notes, and persistent daily goal tracking.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
